@@ -1,0 +1,1 @@
+This project is for transliterator utilities for various Indian languages to / from Latin (English with Diacriticals).
